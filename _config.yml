@@ -105,8 +105,8 @@ author:
   name             : "Sojin Na"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science + ML/DL"
-  location         : "Somewhere"
-  email            : 
+  #location         : "Somewhere"
+  #email            : "chloe.nsj.967@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
